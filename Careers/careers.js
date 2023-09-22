@@ -1,5 +1,5 @@
 (function () {
-    emailjs.init('FIND IT IN YOUR "https://www.emailjs.com/" account'); //mardyan2003@gmail.com will be send (change it after)
+    emailjs.init('FIND IT IN YOUR "https://www.emailjs.com/" account');
 })();
 
 const main = document.querySelector('main');
